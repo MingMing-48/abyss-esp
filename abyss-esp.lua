@@ -6,6 +6,9 @@ local tierColors = {
     ["Tier 1"] = Color3.fromRGB(0, 255, 0),
     ["Tier 2"] = Color3.fromRGB(255, 255, 0),
     ["Tier 3"] = Color3.fromRGB(255, 0, 0)
+
+    Cupid = Color3.fromRGB(255, 105, 180),   -- Pink
+    Lonely = Color3.fromRGB(135, 206, 255)   -- Light Blue
 }
 
 getgenv().ESP_Table = getgenv().ESP_Table or {
